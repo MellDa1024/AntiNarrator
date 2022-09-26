@@ -1,2 +1,2 @@
 # AntiNarrator
-Disables Narrator KeyBind & Settings
+Lambda Plugin that disables Narrator KeyBind & Settings

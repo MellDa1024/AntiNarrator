@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.mellda.mixins",
+  "refmap": "mixins.AntiNarratorPlugin.refmap.json",
+  "client": [
+    "MixinGameSettings",
+    "MixinScreenChatOptions"
+  ]
+}

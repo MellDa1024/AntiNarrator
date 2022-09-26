@@ -1,11 +1,11 @@
 {
   "name": "ExamplePlugin",
   "version": "${version}",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Fuck you Narrator",
+  "url": "https://github.com/MellDa1024/AntiNarrator",
+  "authors": [ "MellDa" ],
+  "main_class": "com.mellda.AntiNarratorPlugin",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [ "mixins.AntiNarratorPlugin.json" ],
   "required_plugins": []
 }
